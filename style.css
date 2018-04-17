@@ -1,11 +1,11 @@
 h1{
   font-family: verdana;
-  color:blue;
+  color:Black;
 }
 
  h2{
   font-family: verdana;
-  color:blue;
+  color:White;
 }
 
 p{
@@ -13,6 +13,6 @@ p{
 }
 
 body {
-    background-color: #33ccff;
+    background-color: #ffcccc;
 }
 
